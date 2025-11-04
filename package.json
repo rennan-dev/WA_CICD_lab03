@@ -8,6 +8,6 @@
   },
   "type": "module",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest --coverage"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest"
   }
 }
